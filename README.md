@@ -1,1 +1,1 @@
-![Formfy](public/preview.png)
+![Formfy Preview](./capa_github.png)
