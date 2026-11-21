@@ -1,5 +1,3 @@
-# Luiz Marcolino
-
 #### **Desenvolvedor Backend** · Java · Spring Boot · AWS
 
 #### Construindo agora: [Poppings](https://poppings.com.br)
