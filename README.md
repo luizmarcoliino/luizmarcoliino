@@ -10,15 +10,15 @@ Plataforma web para empresas criarem, aprovarem e padronizarem seus **procedimen
 - **Acompanhamento da equipe:** quem leu e confirmou cada procedimento;
 - **Histórico de alterações** e dados isolados por empresa...
 
-### Foco atual
+### Stack principal:
 
-Aprofundando em **Java**.
+<img src="https://skillicons.dev/icons?i=java,spring,aws&theme=dark" />
 
-### Stack
+### Stack secundária:
 
-<img src="https://skillicons.dev/icons?i=java,spring,aws,typescript&theme=dark" />
+<img src="https://skillicons.dev/icons?i=typescript,figma,html,css,javascript&theme=dark" />
 
-### Contato
+### Contato:
 
 <a href="https://www.linkedin.com/in/luizmarcolino/"><img src="https://skillicons.dev/icons?i=linkedin&theme=dark" /></a>
 <a href="mailto:luizmarcolino@poppings.com.br"><img src="https://skillicons.dev/icons?i=gmail&theme=dark" /></a>
